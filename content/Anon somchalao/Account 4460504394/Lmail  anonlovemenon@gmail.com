@@ -1,4 +1,6 @@
----
+Anon somchalao
+Account 4460504394---
+Email anonlovemenon@gmail.com
 title: GitHub Logo Policy
 redirect_from:
   - /articles/i-m-developing-a-third-party-github-app-what-do-i-need-to-know/
